@@ -6,4 +6,24 @@
   $theme-hero-image: '../_img/hero.png'
 );
 
-@forward 'uswds';
+// @forward 'uswds';
+@forward 'usa-paragraph';
+@forward 'usa-section';
+@forward 'usa-collection';
+@forward 'usa-accordion';
+@forward 'usa-content';
+@forward 'usa-layout-grid';
+@forward 'usa-layout-docs';
+@forward 'usa-banner';
+@forward 'usa-graphic-list';
+@forward 'usa-header';
+@forward 'usa-hero';
+@forward 'usa-link';
+@forward 'usa-nav';
+@forward 'usa-prose';
+@forward 'usa-skipnav';
+@forward 'usa-sidenav';
+@forward 'usa-footer';
+@forward 'usa-search';
+@forward 'uswds-fonts';
+@forward 'uswds-utilities';
